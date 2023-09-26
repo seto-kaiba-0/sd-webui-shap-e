@@ -3,6 +3,8 @@ This extension is the adaptation of [HF@hysts/Shap-E](https://huggingface.co/spa
 
 ![img](doc/img.png)
 
+Output location : {WebUI Main}/outputs/shap-e
+
 ## Credits
 [OpenAI Shap-E](https://github.com/openai/shap-e)
 
